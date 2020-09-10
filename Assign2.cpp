@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-in main()
+int main()
 {
 double a,b;
 cout << "Enter two numbers to multiply"<< endl;
