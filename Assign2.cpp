@@ -3,8 +3,8 @@ using namespace std;
 in main()
 {
 double a,b;
-cout << "enter 2 numbers to multiply"<< endl;
+cout << "Enter two numbers to multiply"<< endl;
 cin >> a>> b;
-cout << "product = "  << a*b;
+cout << "Product = "  << a*b;
 return 0;
 }
